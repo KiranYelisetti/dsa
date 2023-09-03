@@ -10,7 +10,7 @@ The first line contains integer n (1 ≤ n ≤ 105).
 The second line contains n integers a1,  a2,  ...,  an (1 ≤ ai ≤ 109).
 Print a single integer — the length of the maximum non-decreasing subsegment of sequence a.
 
-
+IMPLEMENTATION -> brute force dp implementation
 
 */
 public class q1 {
