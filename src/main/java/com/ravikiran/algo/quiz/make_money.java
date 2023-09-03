@@ -13,7 +13,7 @@ Print a single integer — the length of the maximum non-decreasing subsegment o
 IMPLEMENTATION -> brute force dp implementation
 
 */
-public class q1 {
+public class make_money {
     public static void main(String[] args) {
        int[] arr = {2,2,1,3,4,1};
        int maxLength = 1;
